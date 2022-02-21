@@ -6,7 +6,7 @@
 The highest accuracy evaluated with AUROC was 0.847
 Training (70%), validation (20%) and testing (10%) datasets were used in this implementation.
 
-![alt text](test/heatmap.png)
+![alt text](heatmap.png)
 
 ## Prerequisites
 * Python 3.5.2
